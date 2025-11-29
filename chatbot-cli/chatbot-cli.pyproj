@@ -22,6 +22,7 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="chatbot_cli.py" />
+    <Compile Include="conversation.py" />
     <Compile Include="llm.py" />
   </ItemGroup>
   <ItemGroup>
